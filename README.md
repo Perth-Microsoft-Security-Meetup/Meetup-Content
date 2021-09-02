@@ -28,6 +28,8 @@ DevSecOps is an extension of DevOps and seeks to embed and “shift-left” appl
 
 In this session we will cover quick wins you can bake into your existing DevOps environment to help detect and prevent vulnerabilities from being deployed into your web applications.
 
+[![Screenshot of Slides](./.media/devsecops.PNG)](./.media/Arkahna - Presentation - Shift Left DevSecOps.pdf)
+
 ## August 2021: Sensitive Info Types & MIP
 
 Sensitive Info Type’s (SIT’s) are the foundational component that makes DLP possible, it’s also the key to Microsoft Information Protection (MIP) as well as Insider Risk, Communications and Compliance.
