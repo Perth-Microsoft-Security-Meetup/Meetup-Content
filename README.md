@@ -28,7 +28,7 @@ DevSecOps is an extension of DevOps and seeks to embed and “shift-left” appl
 
 In this session we will cover quick wins you can bake into your existing DevOps environment to help detect and prevent vulnerabilities from being deployed into your web applications.
 
-[![Screenshot of Slides](./.media/july2021-slides.png)](./.media/july-slides.pdf)
+[![Screenshot of Slides](./.media/july2021-slides.png)](./.media/july2021-slides.pdf)
 
 ## August 2021: Sensitive Info Types & MIP
 
