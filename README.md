@@ -34,3 +34,5 @@ In this session we will cover quick wins you can bake into your existing DevOps 
 
 Sensitive Info Type’s (SIT’s) are the foundational component that makes DLP possible, it’s also the key to Microsoft Information Protection (MIP) as well as Insider Risk, Communications and Compliance.
 Join us for a session where we unpack some of the deeper details on SIT’s, how they work, and how to get started in your environment - this is a work in progress, so please bring your questions & scenarios.
+
+[![Screenshot of Slides](./.media/august2021-slides.PNG)](./.media/august2021-slides.pdf)
