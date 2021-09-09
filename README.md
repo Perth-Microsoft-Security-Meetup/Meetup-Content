@@ -18,7 +18,7 @@ Slides from the previous sessions can be found below:
 Network security has been the traditional linchpin of enterprise security efforts, however, cloud computing has increased the requirement for network perimeters to be more permeable. Whilst network security is no longer the primary focus for securing cloud assets it is still needed for legacy assets
 
 
-[![Screenshot of Slides](./.media/july2021-slides.PNG)](./.media/july2021-slides.pdf)
+[![Screenshot of Slides](./.media/june2021-slides.PNG)](./.media/june2021-slides.pdf)
 
 ## July 2021: DevSecOps with Azure and GitHub
 
@@ -28,7 +28,7 @@ DevSecOps is an extension of DevOps and seeks to embed and “shift-left” appl
 
 In this session we will cover quick wins you can bake into your existing DevOps environment to help detect and prevent vulnerabilities from being deployed into your web applications.
 
-[![Screenshot of Slides](./.media/august2021-slides.png)](./.media/august2021-slides.pdf)
+[![Screenshot of Slides](./.media/july2021-slides.png)](./.media/july-slides.pdf)
 
 ## August 2021: Sensitive Info Types & MIP
 
