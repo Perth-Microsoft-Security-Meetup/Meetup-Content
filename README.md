@@ -3,6 +3,7 @@
 - [June 2021](#June-2021:-Design-for-Network-Security-&-Containment)
 - [July 2021](#July-2021:-DevSecOps-with-Azure-and-GitHub)
 - [August 2021](#August-2021:-Sensitive-Info-Types-&-MIP)
+- [October 2021] (#October-2021:-Essential-Eight-in-2021)
 
 ---
 The Perth Microsoft Security Meetup is a meeting place for anyone with an interest in the Microsoft Security ecosystem. Whether your focus is on Microsoft 365, Azure or hybrid security across on-premises and cloud, this user group brings together like minded individuals from both customers and Microsoft partners.
@@ -36,3 +37,11 @@ Sensitive Info Type’s (SIT’s) are the foundational component that makes DLP 
 Join us for a session where we unpack some of the deeper details on SIT’s, how they work, and how to get started in your environment - this is a work in progress, so please bring your questions & scenarios.
 
 [![Screenshot of Slides](./.media/august2021-slides.png)](./.media/august2021-slides.pdf)
+
+## October 2021: Essential Eight in 2021
+
+The ASD/ACSC ‘Essential Eight’ mitigation strategies have been recommended by the Australian Government for more than a decade. 
+In this session, we will discuss the July 2021 changes to the maturity model, the relevance to the current threat landscape, and impact to implementation using the Microsoft cloud security solutions.   
+
+
+[![Screenshot of Slides](./.media/october2021-slides.png)](./.media/october2021-slides.pdf)
