@@ -3,7 +3,7 @@
 - [June 2021](#June-2021:-Design-for-Network-Security-&-Containment)
 - [July 2021](#July-2021:-DevSecOps-with-Azure-and-GitHub)
 - [August 2021](#August-2021:-Sensitive-Info-Types-&-MIP)
-- [October 2021] (#October-2021:-Essential-Eight-in-2021)
+- [October 2021](#October-2021:-Essential-Eight-in-2021)
 
 ---
 The Perth Microsoft Security Meetup is a meeting place for anyone with an interest in the Microsoft Security ecosystem. Whether your focus is on Microsoft 365, Azure or hybrid security across on-premises and cloud, this user group brings together like minded individuals from both customers and Microsoft partners.
