@@ -44,4 +44,4 @@ The ASD/ACSC ‘Essential Eight’ mitigation strategies have been recommended b
 In this session, we will discuss the July 2021 changes to the maturity model, the relevance to the current threat landscape, and impact to implementation using the Microsoft cloud security solutions.   
 
 
-[![Screenshot of Slides](./.media/october2021-slides.png)](./.media/october2021-slides.pdf)
+[![Screenshot of Slides](./.media/october2021-slides.png)](./.media/october2021-slides)
