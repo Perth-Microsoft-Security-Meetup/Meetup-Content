@@ -1,9 +1,11 @@
 # Perth Microsoft Security Meetup
 
-- [June 2021](#June-2021:-Design-for-Network-Security-&-Containment)
-- [July 2021](#July-2021:-DevSecOps-with-Azure-and-GitHub)
-- [August 2021](#August-2021:-Sensitive-Info-Types-&-MIP)
-- [October 2021](#October-2021:-Essential-Eight-in-2021)
+- [Perth Microsoft Security Meetup](#perth-microsoft-security-meetup)
+  - [June 2021: Design for Network Security & Containment](#june-2021-design-for-network-security--containment)
+  - [July 2021: DevSecOps with Azure and GitHub](#july-2021-devsecops-with-azure-and-github)
+  - [August 2021: Sensitive Info Types & MIP](#august-2021-sensitive-info-types--mip)
+  - [October 2021: Essential Eight in 2021](#october-2021-essential-eight-in-2021)
+  - [February 2022: What does Cloud-Native security look like?](#february-2022-what-does-cloud-native-security-look-like)
 
 
 ---
@@ -46,3 +48,10 @@ In this session, we will discuss the July 2021 changes to the maturity model, th
 
 [![Screenshot of Slides](./.media/october2021-slides.png)](./.media/october2021-slides.pdf)
 
+## February 2022: What does Cloud-Native security look like?
+
+Serverless presents a number of new ways to build applications, but traditional network perimeters are not always possible in this new Cloud Native world.
+
+In this session Jake will take a look at what a secure by design application architecture may look like when you have public endpoints by default and pose the question, can we still achieve reasonable defence in depth without a network perimeter?
+
+[![Screenshot of Slides](./.media/february2022-slides.png)](./.media/february2022-slides.pptx)
