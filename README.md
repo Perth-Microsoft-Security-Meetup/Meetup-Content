@@ -72,4 +72,4 @@ Visit the [website](https://globalsecurity.community/) to see the Speakers and A
 
 ### Enforcing Security & Governance Guardrails using Enterprise Policy as Code
 
-[![Screenshot of Slides](./media/bootcamp2025/gsb2025-enforcing-security-governance-guardrails-using-epac.png)](./.media/bootcamp2025/gsb2025-enforcing-security-governance-guardrails-using-epac.pdf)
+[![Screenshot of Slides](./.media/bootcamp2025/gsb2025-enforcing-security-governance-guardrails-using-epac.png)](./.media/bootcamp2025/gsb2025-enforcing-security-governance-guardrails-using-epac.pdf)
