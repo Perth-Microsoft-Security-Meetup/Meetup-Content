@@ -1,11 +1,12 @@
 # Perth Microsoft Security Meetup
 
-- [Perth Microsoft Security Meetup](#perth-microsoft-security-meetup)
-  - [June 2021: Design for Network Security & Containment](#june-2021-design-for-network-security--containment)
-  - [July 2021: DevSecOps with Azure and GitHub](#july-2021-devsecops-with-azure-and-github)
-  - [August 2021: Sensitive Info Types & MIP](#august-2021-sensitive-info-types--mip)
-  - [October 2021: Essential Eight in 2021](#october-2021-essential-eight-in-2021)
-  - [February 2022: What does Cloud-Native security look like?](#february-2022-what-does-cloud-native-security-look-like)
+- [June 2021: Design for Network Security \& Containment](#june-2021-design-for-network-security--containment)
+- [July 2021: DevSecOps with Azure and GitHub](#july-2021-devsecops-with-azure-and-github)
+- [August 2021: Sensitive Info Types \& MIP](#august-2021-sensitive-info-types--mip)
+- [October 2021: Essential Eight in 2021](#october-2021-essential-eight-in-2021)
+- [February 2022: What does Cloud-Native security look like?](#february-2022-what-does-cloud-native-security-look-like)
+- [August 2025: Global Security BootCamp 2025](#august-2025-global-security-bootcamp-2025)
+  - [Enforcing Security \& Governance Guardrails using Enterprise Policy as Code](#enforcing-security--governance-guardrails-using-enterprise-policy-as-code)
 
 
 ---
@@ -55,3 +56,20 @@ Serverless presents a number of new ways to build applications, but traditional 
 In this session Jake will take a look at what a secure by design application architecture may look like when you have public endpoints by default and pose the question, can we still achieve reasonable defence in depth without a network perimeter?
 
 [![Screenshot of Slides](./.media/february2022-slides.png)](./.media/february2022-slides.pptx)
+
+## August 2025: Global Security BootCamp 2025
+
+This community-driven event brings together experts, practitioners, and learners to dive deep into Microsoft technologies such as;
+
+Identity & access management (Entra ID, Conditional Access, PIM)
+Endpoint & threat protection (Defender XDR, Endpoint Manager)
+Cloud workload security (Azure Security Center, Sentinel, Bicep/ARM guardrails)
+Secure DevOps (GitHub Copilot for Security, DevSecOps pipelines)
+AI & ML security in Microsoft platforms
+Zero Trust architectures, compliance and governance
+
+Visit the [website](https://globalsecurity.community/) to see the Speakers and Agenda from the event.
+
+### Enforcing Security & Governance Guardrails using Enterprise Policy as Code
+
+[![Screenshot of Slides](./media/bootcamp2025/gsb2025-enforcing-security-governance-guardrails-using-epac.png)](./.media/bootcamp2025/gsb2025-enforcing-security-governance-guardrails-using-epac.pdf)
