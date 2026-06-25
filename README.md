@@ -1,12 +1,11 @@
 # Perth Microsoft Security Meetup
 
-- [Perth Microsoft Security Meetup](#perth-microsoft-security-meetup)
-  - [June 2021: Design for Network Security & Containment](#june-2021-design-for-network-security--containment)
-  - [July 2021: DevSecOps with Azure and GitHub](#july-2021-devsecops-with-azure-and-github)
-  - [August 2021: Sensitive Info Types & MIP](#august-2021-sensitive-info-types--mip)
-  - [October 2021: Essential Eight in 2021](#october-2021-essential-eight-in-2021)
-  - [February 2022: What does Cloud-Native security look like?](#february-2022-what-does-cloud-native-security-look-like)
-
+- [June 2021: Design for Network Security \& Containment](#june-2021-design-for-network-security--containment)
+- [July 2021: DevSecOps with Azure and GitHub](#july-2021-devsecops-with-azure-and-github)
+- [August 2021: Sensitive Info Types \& MIP](#august-2021-sensitive-info-types--mip)
+- [October 2021: Essential Eight in 2021](#october-2021-essential-eight-in-2021)
+- [February 2022: What does Cloud-Native security look like?](#february-2022-what-does-cloud-native-security-look-like)
+- [June 2026: Securing Azure \& Entra with Code: Maester, IaC and Open-Source Security Tools](#june-2026-securing-azure--entra-with-code-maester-iac-and-open-source-security-tools)
 
 ---
 The Perth Microsoft Security Meetup is a meeting place for anyone with an interest in the Microsoft Security ecosystem. Whether your focus is on Microsoft 365, Azure or hybrid security across on-premises and cloud, this user group brings together like minded individuals from both customers and Microsoft partners.
@@ -55,3 +54,18 @@ Serverless presents a number of new ways to build applications, but traditional 
 In this session Jake will take a look at what a secure by design application architecture may look like when you have public endpoints by default and pose the question, can we still achieve reasonable defence in depth without a network perimeter?
 
 [![Screenshot of Slides](./.media/february2022-slides.png)](./.media/february2022-slides.pptx)
+
+## June 2026: Securing Azure & Entra with Code: Maester, IaC and Open-Source Security Tools
+
+We explore how Infrastructure as Code combined with automated security testing can transform your Azure security posture from reactive to proactive. Discover Maester, a powerful open-source framework that enables continuous security validation of your Azure and Microsoft 365 environments using Pester tests. Learn how to integrate security checks directly into your CI/CD pipelines, ensuring compliance with CIS Benchmarks, Microsoft Secure Score recommendations, and your own custom security policies—all before deployment.
+
+We'll demonstrate a practical security-first workflow that combines:
+
+- Bicep for consistent, auditable infrastructure deployment
+- Maester for automated security posture testing and compliance validation
+- PSRule for Azure for pre-deployment policy enforcement
+- Other open-source GitHub repos for security visibility and reporting
+
+You'll leave with actionable patterns to implement "security as code" in your organization, reduce manual audit overhead, and catch misconfigurations before they reach production.
+
+[![Screenshot of Slides](./.media/june2026-slides.png)](./.media/june2026-slides.pdf)
